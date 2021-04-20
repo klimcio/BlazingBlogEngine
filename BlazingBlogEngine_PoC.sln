@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazingBlogEnginePoC", "BlazingBlogEnginePoC\BlazingBlogEnginePoC.csproj", "{606D5AC1-84B0-461B-8901-54D0CA8D40FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazingBlogEngine", "BlazingBlogEngine\BlazingBlogEngine.csproj", "{8BE1FB8C-A8B5-4480-A519-43A9B361EA0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{606D5AC1-84B0-461B-8901-54D0CA8D40FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{606D5AC1-84B0-461B-8901-54D0CA8D40FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{606D5AC1-84B0-461B-8901-54D0CA8D40FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{606D5AC1-84B0-461B-8901-54D0CA8D40FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE1FB8C-A8B5-4480-A519-43A9B361EA0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE1FB8C-A8B5-4480-A519-43A9B361EA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE1FB8C-A8B5-4480-A519-43A9B361EA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE1FB8C-A8B5-4480-A519-43A9B361EA0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B6927807-F4F5-465B-B2D2-D2E277FF5166}
+		SolutionGuid = {CD051DCF-46E3-40AE-8BB8-2DB76226E383}
 	EndGlobalSection
 EndGlobal
